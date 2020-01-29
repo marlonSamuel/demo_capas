@@ -1,0 +1,42 @@
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form2.resources
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\2- EF y Linq\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\bin\Debug\EntityFramework.dll
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\bin\Debug\EntityFramework.xml
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form2.resources
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\senpai\Desktop\Nuevo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\bin\Debug\EntityFramework.dll
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\bin\Debug\EntityFramework.xml
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form2.resources
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\senpai\Desktop\BKMarlon\Ejemplo.net\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
